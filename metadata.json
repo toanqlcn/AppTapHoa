@@ -1,0 +1,6 @@
+{
+  "name": "TAP HOA CO7",
+  "description": "Ứng dụng quản lý sản phẩm bằng camera và tra cứu giá bằng hình ảnh sử dụng Gemini AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
